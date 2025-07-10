@@ -2,11 +2,9 @@
 
 ## Deskripsi Proyek
 
-Academya-Project merupakan proyek analisis data yang bertujuan untuk meningkatkan efektivitas kampanye pemasaran langsung (direct marketing) di sektor perbankan. 
+Dalam industri perbankan, pemasaran langsung (direct marketing) merupakan strategi penting untuk menarik nasabah baru dan meningkatkan penjualan produk keuangan seperti deposito berjangka. Namun, semakin banyaknya kampanye pemasaran selama bertahun-tahun telah mengurangi efektivitasnya. Persaingan ketat dan tekanan ekonomi membuat bank harus mengadopsi pendekatan yang lebih efisien dalam pemilihan target pelanggan.
 
-Dalam industri perbankan, pemasaran langsung menjadi strategi penting untuk menarik nasabah baru dan menjual produk keuangan seperti deposito berjangka. Namun, efektivitas kampanye ini menurun akibat tingginya frekuensi kampanye, persaingan yang ketat, dan tekanan ekonomi.
-
-Kampanye massal yang tidak ditargetkan memiliki tingkat respons yang sangat rendah, bahkan kurang dari 1%. Sebagai solusi, pemasaran langsung yang lebih terarah dapat meningkatkan efisiensi dengan menargetkan pelanggan yang lebih mungkin tertarik dengan produk yang ditawarkan. Analisis data historis dari kampanye sebelumnya dapat digunakan untuk membangun model prediktif yang membantu bank dalam memilih pelanggan potensial secara lebih akurat.
+Kampanye pemasaran massal yang tidak ditargetkan sering kali memiliki tingkat respons yang sangat rendah, bahkan kurang dari 1%​. Sebagai alternatif, pemasaran langsung yang lebih terarah dapat meningkatkan efisiensi dengan menargetkan pelanggan yang lebih mungkin tertarik dengan produk yang ditawarkan. Namun, pendekatan ini juga memiliki tantangan, seperti kemungkinan munculnya reaksi negatif dari pelanggan akibat gangguan yang dirasakan​. Oleh karena itu, pihak bank perlu mengetahui faktor-faktor yang mempengaruhi keberhasilan suatu kampanye pemasaran. Dengan menganalisis data historis kampanye pemasaran sebelumnya, bank dapat membangun model prediktif yang membantu mengidentifikasi pelanggan potensial dengan tingkat keberhasilan tinggi. Dengan begitu, jumlah panggilan yang tidak efektif dapat dikurangi tanpa menurunkan jumlah pelanggan yang berhasil dikonversi.
 
 ## Tujuan Proyek
 
